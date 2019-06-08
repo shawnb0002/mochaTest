@@ -1,0 +1,23 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "Simple app for testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnb0002/mochaTest.git"
+  },
+  "author": "Yasean Bastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnb0002/mochaTest/issues"
+  },
+  "homepage": "https://github.com/shawnb0002/mochaTest#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
